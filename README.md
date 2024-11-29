@@ -1,2 +1,2 @@
 # Customer-Churn-Prediction_Dashboard
-In the competitive telecom industry, retaining customers is critical to sustaining revenue and growth. This Power BI dashboard provides an interactive analysis of key factors contributing to customer churn. By visualizing customer demographics, service usage, and account details, it enables businesse.
+In the competitive telecom industry, retaining customers is critical to sustaining revenue and growth. This Power BI dashboard provides an interactive analysis of key factors contributing to customer churn. By visualizing customer demographics, service usage, and account details, it enables businesses to identify churn trends, uncover insights, and strategize effectively to improve retention.
